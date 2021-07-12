@@ -1,0 +1,31 @@
+body{
+  text-align:center;
+  font-family: open sans,sans serif;
+  background-color:#000708;
+  margin:o;
+}
+h1{
+  color:#b4babf;
+  text-align:center;
+  font-sise:40px;
+  font-weight:300px;
+}
+h2{
+  color:#82a5c2;
+  text-align:center;
+  font-size:22px;
+  font-style:italic;
+}
+p{
+  line-height: 1.5;
+  font-size: 20px;
+}
+ img{
+  width: 50%;
+}
+section{
+  max-width:60%;
+  margin:0 auto;
+  max-width:900px;
+  width:60%;
+  text-align:center;
